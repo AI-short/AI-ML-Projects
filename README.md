@@ -7,14 +7,33 @@ Welcome to my collection of **AI and Machine Learning projects**. Each project i
 
 ---
 
-## **Projects**
+# 🚀 Projects
 
-### 1. [Chance of Admission Prediction](./Admission_Prediction)
+## 1️⃣ Chance of Admission Prediction
+**Description:**  
+Predicts the probability of a student getting admission into graduate programs using **Linear Regression** based on GRE, TOEFL, CGPA, SOP, LOR, and Research Experience.  
 
-Predicts the probability of a student getting admission into graduate programs using **Linear Regression** based on GRE, TOEFL, CGPA, SOP, LOR, and research experience.
+**Tools & Libraries:**  
+- Google Colab  
+- Python (pandas, scikit-learn)  
 
-* Tools: **Google Colab, pandas, scikit-learn**
-* Mean Absolute Error: \~7.5%
+**Model Performance:**  
+- Mean Absolute Error (MAPE): ~7.5%  
+
+---
+
+## 2️⃣ Diagnosing Diabetes in Female Patients
+**Description:**  
+Predicts whether a female patient is likely to have diabetes using medical features such as Glucose, BMI, Insulin levels, and Age.  
+A **Logistic Regression** model is trained after imputing missing values.  
+
+**Tools & Libraries:**  
+- Google Colab  
+- Python (pandas, scikit-learn, missingno, matplotlib)  
+
+**Model Performance:**  
+- Accuracy: ~74%  
+
 
 ---
 
