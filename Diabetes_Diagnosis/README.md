@@ -38,7 +38,7 @@ A **Logistic Regression model** is applied after handling missing values to clas
 2. Explore dataset (info, statistics, top rows)  
 3. Handle missing values using **Mean/Median imputation**  
 4. Define features (**X**) and target (**y**)  
-5. Split data into training (40%) and testing (60%) sets  
+5. Split data into training (60%) and testing (40%) sets  
 6. Select model: **Logistic Regression**  
 7. Train model on training data  
 8. Predict diabetes status on test data  
