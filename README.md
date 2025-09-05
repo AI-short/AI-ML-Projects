@@ -37,6 +37,20 @@ A **Logistic Regression** model is trained after imputing missing values.
 
 ---
 
+3️⃣ Chance of Admission Prediction (KNN Regressor)
+Description:
+Predicts the probability of a student getting admission into graduate programs based on GRE, TOEFL, CGPA, SOP, LOR, and Research experience.
+A K-Nearest Neighbors Regressor (KNN) model is trained to estimate admission chances as a continuous score.
+
+**Tools & Libraries:**  
+- Google Colab  
+- Python (pandas, scikit-learn, missingno, matplotlib)
+
+**Model Performance:**
+- Mean Absolute Percentage Error (MAPE): ~9.5%
+
+---
+
 ## **How to Explore**
 
 1. Click on a project link to open its folder
