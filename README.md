@@ -37,10 +37,10 @@ A **Logistic Regression** model is trained after imputing missing values.
 
 ---
 
-3️⃣ Chance of Admission Prediction (KNN Regressor)
-Description:
+## 3️⃣ Chance of Admission Prediction (KNN Regressor)
+**Description:**
 Predicts the probability of a student getting admission into graduate programs based on GRE, TOEFL, CGPA, SOP, LOR, and Research experience.
-A K-Nearest Neighbors Regressor (KNN) model is trained to estimate admission chances as a continuous score.
+A **K-Nearest Neighbors Regressor** (KNN) model is trained to estimate admission chances as a continuous score.
 
 **Tools & Libraries:**  
 - Google Colab  
@@ -48,6 +48,20 @@ A K-Nearest Neighbors Regressor (KNN) model is trained to estimate admission cha
 
 **Model Performance:**
 - Mean Absolute Percentage Error (MAPE): ~9.5%
+
+---
+
+## 4️⃣ Diagnosing Diabetes in Female Patients (KNN Classifier)
+**Description:**  
+Predicts whether a female patient is diabetic (Yes/No) using medical features such as Glucose, BMI, Insulin levels, Blood Pressure, and Age.
+A **K-Nearest Neighbors Classifier** (KNN) model is trained after imputing missing values in the dataset.  
+
+**Tools & Libraries:**  
+- Google Colab  
+- Python (pandas, scikit-learn, missingno, matplotlib)  
+
+**Model Performance:**  
+- Accuracy: ~74%
 
 ---
 
